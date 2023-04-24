@@ -1,3 +1,3 @@
-module github.com/kristianvv/is105sem03
+module github.com/kristianvv/is105sem03/mycrypt
 
-go 1.19
+go 1.18
