@@ -2,7 +2,6 @@ package mycrypt
 
 import (
 	"reflect"
-	"testing"
 )
 
 // Testene forutsetter et alfabet, som er definert i mycrypt.go som ALF_SEM03
